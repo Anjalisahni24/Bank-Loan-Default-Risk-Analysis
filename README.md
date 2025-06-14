@@ -73,11 +73,13 @@ Example: Income vs Avg Credit
 - Segmented by defaulters and non-defaulters
 
 - Identified strong predictors:
-- EXT_SOURCE_2
+ - EXT_SOURCE_2
 
-- DAYS_EMPLOYED
+ - DAYS_EMPLOYED
 
-- AMT_CREDIT
+ - AMT_CREDIT
+
+---
 
 ### 📊 Key Insights
 - Applicants with low EXT_SOURCE scores have a higher default risk
@@ -87,3 +89,22 @@ Example: Income vs Avg Credit
 - Very high or low credit amounts may indicate higher risk
 
 - Recommend focusing on EXT_SOURCE_2, DAYS_EMPLOYED, AMT_CREDIT in future risk models
+
+  ---
+
+## 🚀 How to Use This Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/IMDB-Movies-Analysis.git
+   cd IMDB-Movies-Analysis
+2. Open the Excel file in /dataset/imdb_movies.xlsx
+3. View insights in /IMDB_Movies_Report.pdf or open individual visuals in /visuals
+
+---
+
+## 📬 Contact
+📧 24anjalisahni@gmail.com
+🔗 https://www.linkedin.com/in/anjali-sahni-481b44238/
+🌐 GitHub: https://github.com/Anjalisahni24
+
