@@ -1,0 +1,67 @@
+# ⚙️ Project Requirements
+
+This project is based on Microsoft Excel and Google Docs, so no programming packages or installations are required. Below are the system and software requirements needed to replicate or explore the analysis.
+
+---
+
+## 🖥️ System Requirements
+
+- A computer with at least **4 GB RAM** and **Microsoft Excel 2022 or later**
+- Access to **Google Drive/Docs** via a modern browser (Chrome, Edge, Firefox)
+
+---
+
+## 📦 Software Requirements
+
+### 1. **Microsoft Excel 2022 or later**
+> Required for working with the `.xlsx` file link containing formulas, pivot tables, and visualizations.
+
+#### Excel Functions Used:
+- `IF`, `ISBLANK`, `COUNT`, `COUNTIF`
+- `CORREL`, `QUARTILE.EXC`, `MEDIAN`
+
+#### Excel Features:
+- Pivot Tables
+- Conditional Formatting
+- Filters & Sorting
+- Data Visualizations:
+  - Bar Chart
+  - Pie Chart
+  - Scatter Plot
+  - Box Plot
+  - Heatmap
+
+---
+
+### 2. **Google Docs**
+> Used for compiling the final project report. Any web browser (Chrome, Edge, Firefox) that supports Google Workspace will work.
+
+---
+
+## 🔗 Optional Tools
+
+- **Google Sheets** (for viewing the Excel file online if Excel is not installed)
+- **OneDrive or Dropbox** (to store and share project files)
+
+---
+
+## 📁 Required Files
+
+Make sure the following files are available:
+- `MS EXCEL Sheet Link for Bank loan default risk analysis` – Contains all the analysis and charts
+- `Bank loan default risk analysis final.pdf` – Final summary and insights
+
+---
+
+## ✅ Summary
+
+| Component         | Required? | Notes                                       |
+|------------------|-----------|---------------------------------------------|
+| Excel 2022+      | ✅         | Core tool for EDA and visualization         |
+| Google Docs      | ✅         | Used for report creation and sharing        |
+| Modern Browser   | ✅         | For accessing Google Drive/Docs             |
+| Google Sheets    | ❌ (optional) | Online view of Excel without full features |
+
+---
+
+For best experience, use Microsoft Excel desktop app as some features like pivot charts or heatmaps may not work properly in online versions.
